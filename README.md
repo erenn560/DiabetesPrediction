@@ -1,2 +1,0 @@
-# DiabetesPrediction
-Şeker Hastalığı Tahmini
